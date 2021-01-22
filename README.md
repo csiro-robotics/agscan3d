@@ -15,8 +15,8 @@ In order to extract density information, we recommend following a sequence of co
 ```
 rayalign vineyard.ply                      # aligns it along the row direction
 raywrap vineyard_aligned.ply upwards 0.001 # generate a ground mesh assuming a low curvature
-raysplit vineyard_aligned.ply vineyard_aligned_mesh.ply distance 0.3 # cut out from 30 cm above the ground
-mv vineyard_aligned_outside.ply vines.ply
+raysplit vineyard_aligned.ply vineyard_aligned_mesh.ply distance 1 # cut out 1 m above the ground
+mv vineyard_aligned_inside.ply vines.ply
 rayrender vines.ply top density_rgb        # render to an image file as a red-green-blue heatmap
 ```
 
