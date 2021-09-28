@@ -1,5 +1,23 @@
 # Agscan3D
-This repository provides links to the code and datasets used in the paper [Canopy Density Estimation in Perennial Horticulture Crops Using 3D Spinning Lidar SLAM](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22006)
+This repository provides links to the code and datasets used in the paper:
+
+### [Canopy Density Estimation in Perennial Horticulture Crops Using 3D Spinning Lidar SLAM](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22006)
+
+If you find this work useful for your research, please consider citing:
+
+```
+@article{https://doi.org/10.1002/rob.22006,
+	author = {Lowe, Thomas and Moghadam, Peyman and Edwards, Everard and Williams, Jason},
+	title = {Canopy density estimation in perennial horticulture crops using 3D spinning lidar SLAM},
+	journal = {Journal of Field Robotics},
+	volume = {38},
+	number = {4},
+	pages = {598-618},
+	doi = {https://doi.org/10.1002/rob.22006},
+	year = {2021}
+}
+```
+
 
 Example datasets are available on CSIRO's [Data Access Portal](https://my.csiro.au/Tasks/Information-resources/Library/Data-Access-Portal) under "AgScan3D Viticulture Datasets".
 
