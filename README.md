@@ -6,7 +6,7 @@ This repository provides links to the code and datasets used in the paper:
 If you find this work useful for your research, please consider citing:
 
 ```
-@article{https://doi.org/10.1002/rob.22006,
+@article{lowe2021canopy,
 	author = {Lowe, Thomas and Moghadam, Peyman and Edwards, Everard and Williams, Jason},
 	title = {Canopy density estimation in perennial horticulture crops using 3D spinning lidar SLAM},
 	journal = {Journal of Field Robotics},
@@ -26,7 +26,7 @@ These datasets can be cited as "Lowe, Tom; Moghadam, Peyman; Edwards, Everard; W
 If you use the dataset for your research, please consider citing the dataset as well:
 
 ```
-@article{https://doi.org/10.1002/rob.22006,
+@article{agscan3d2021,
         author = {Lowe, Thomas and Moghadam, Peyman and Edwards, Everard and Williams, Jason and Brosnan, Stephen and Haddon, David and Dungavell, Ross},
         title = {AgScan3D Viticulture Datasets. v1.},
         journal = {CSIRO. Data Collection},
