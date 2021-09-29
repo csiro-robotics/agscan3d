@@ -19,9 +19,22 @@ If you find this work useful for your research, please consider citing:
 ```
 
 
-Example datasets are available on CSIRO's [Data Access Portal](https://my.csiro.au/Tasks/Information-resources/Library/Data-Access-Portal) under "AgScan3D Viticulture Datasets".
+Datasets used in this work are available at:
 
-These datasets can be cited as "Lowe, Tom; Moghadam, Peyman; Edwards, Everard; Williams, Jason; Brosnan, Stephen; Haddon, David; Dungavell, Ross (2021): AgScan3D Viticulture Datasets. v1. CSIRO. Data Collection. https://doi.org/10.25919/gbvy-yz23"
+These datasets can be cited as "Lowe, Tom; Moghadam, Peyman; Edwards, Everard; Williams, Jason; Brosnan, Stephen; Haddon, David; Dungavell, Ross (2021): [AgScan3D Viticulture Datasets. v1.](https://doi.org/10.25919/gbvy-yz23) CSIRO. Data Collection. https://doi.org/10.25919/gbvy-yz23"
+
+If you use the dataset for your research, please consider citing the dataset as well:
+
+```
+@article{https://doi.org/10.1002/rob.22006,
+        author = {Lowe, Thomas and Moghadam, Peyman and Edwards, Everard and Williams, Jason and Brosnan, Stephen and Haddon, David and Dungavell, Ross},
+        title = {AgScan3D Viticulture Datasets. v1.},
+        journal = {CSIRO. Data Collection},
+        doi = {https://doi.org/10.25919/gbvy-yz23},
+        year = {2021}
+}
+```
+
 
 There is a library available for extracting density images from this dataset, it is available here: https://github.com/csiro-robotics/raycloudtools/
 
